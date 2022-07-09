@@ -5,7 +5,5 @@ My name is Vincent, I am a fourth year software engineering student located in t
 
 
 I maintain a portfolio where you can learn more about me and get in touch with me [here](https://www.vincenthendriks.com "Vincent's portfolio").
-
-I also use a second portfolio where I blog, post tutorials, guides and more [here](https://www.hendracle.nl "blog/guides/tutorials").
 <!--
 **Emperor2000/Emperor2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
