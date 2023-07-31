@@ -1,6 +1,6 @@
 ![Screenshot](https://user-images.githubusercontent.com/38536470/116479797-87a5c380-a880-11eb-885d-aec73d3a5578.png)
 ### Hi there! 👋 
-My name is Vincent, I am a software engineer located in the Netherlands. In my free time I like to dive into game development (Gamemaker, JS, C#). I have worked on several projects that are available to download (links in description). Amongst a number of public and private repositories, I maintain a library with sample projects for GameMaker Studio.
+My name is Vincent, I am a software and game developer located in the Netherlands. In my free time I like to dive into game development (Gamemaker, JS, C#). I have worked on several projects that are available to download (links in description). Amongst a number of public and private repositories, I maintain a library with sample projects for GameMaker Studio.
 
 
 
