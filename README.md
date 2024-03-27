@@ -10,7 +10,7 @@ I maintain a portfolio where you can learn more about me and get in touch with m
 
 ![](https://komarev.com/ghpvc/?username=Emperor2000)
 
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=Emperor2000&theme=nightowl"/>
-<br>
+<!--<img width="420" src="https://github-readme-stats.vercel.app/api?username=Emperor2000&theme=nightowl"/>
+<br>-->
 <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emperor2000&layout=compact&theme=radical&hide_border=true"/>
 
