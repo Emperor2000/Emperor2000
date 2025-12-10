@@ -12,5 +12,6 @@ I maintain a portfolio where you can learn more about me and get in touch with m
 
 <!--<img width="420" src="https://github-readme-stats.vercel.app/api?username=Emperor2000&theme=nightowl"/>
 <br>-->
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emperor2000&layout=compact&theme=radical&hide_border=true"/>
+<!--<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emperor2000&layout=compact&theme=radical&hide_border=true"/>-->
 
+[![Emperor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emperor2000)](https://github.com/anuraghazra/github-readme-stats)
